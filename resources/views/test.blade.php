@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1>test 12345123456789</h1>
+    <p>
+        pada suatu hari ada seorang anak bernama Aryo bBintang Kecil. Dia sangat happy karena bisa beli telur gulung.
+    </p>
     <h1>Aryo ganteng sekali</h1>
     <h2>Aryo ganteng banget</h2>
 </body>
