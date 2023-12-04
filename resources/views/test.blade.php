@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>test 12345123456789</h1>
+    <h1>Aryo ganteng sekali</h1>
+    <h2>Aryo ganteng banget</h2>
 </body>
 </html>
